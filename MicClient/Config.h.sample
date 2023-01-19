@@ -1,0 +1,6 @@
+#define SSID "<<PUT HERE>>"
+#define PASSWORD "<<PUT HERE>>"
+
+#define TARGET_RING_URL "http://<<PUT HERE>>/ring"
+#define TARGET_PING_URL "http://<<PUT HERE>>/ping"
+#define THRESHOLD 2500
